@@ -1,6 +1,6 @@
-CommandlineCalculator
-_____________________
-_____________________
+ Commandline Calculator
+______________________
+______________________
 
 
 Class tests provide 100% code coverage based on predefined classes and "SOLID" principles.
