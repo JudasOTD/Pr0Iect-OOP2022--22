@@ -1,5 +1,6 @@
-C0mmandline Calculat0r
-________________________
+CommandlineCalculator
+_____________________
+_____________________
 
 
 Class tests provide 100% code coverage based on predefined classes and "SOLID" principles.
@@ -7,3 +8,4 @@ Implementation contains function calls for both the optimized copy c-tor and ove
 
 Source: 
 http://cplusplus.com/reference/istream/istream/operator%3E%3E/
+
